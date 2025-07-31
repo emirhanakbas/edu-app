@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub Repos\\edu-app\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B835EF-70F2-4F1F-84D9-DB5E3B47AFFE}|Presentation\\API.API\\API.API.csproj|d:\\github repos\\edu-app\\api\\presentation\\api.api\\api.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3B835EF-70F2-4F1F-84D9-DB5E3B47AFFE}|Presentation\\API.API\\API.API.csproj|solutionrelative:presentation\\api.api\\api.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C51F36-C5AF-4358-AEB5-C0ADCE2C5C3E}|Infrastructure\\API.Persistence\\API.Persistence.csproj|d:\\github repos\\edu-app\\api\\infrastructure\\api.persistence\\api.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{02C51F36-C5AF-4358-AEB5-C0ADCE2C5C3E}|Infrastructure\\API.Persistence\\API.Persistence.csproj|solutionrelative:infrastructure\\api.persistence\\api.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251552CA-26AD-44DE-89A3-D47175E89DF7}|Infrastructure\\API.Infrastructure\\API.Infrastructure.csproj|d:\\github repos\\edu-app\\api\\infrastructure\\api.infrastructure\\api.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{251552CA-26AD-44DE-89A3-D47175E89DF7}|Infrastructure\\API.Infrastructure\\API.Infrastructure.csproj|solutionrelative:infrastructure\\api.infrastructure\\api.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBC292F-0AFC-4A65-A727-6CBF2DDE2A1A}|Core\\API.Application\\API.Application.csproj|d:\\github repos\\edu-app\\api\\core\\api.application\\api.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4CBC292F-0AFC-4A65-A727-6CBF2DDE2A1A}|Core\\API.Application\\API.Application.csproj|solutionrelative:core\\api.application\\api.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B835EF-70F2-4F1F-84D9-DB5E3B47AFFE}|Presentation\\API.API\\API.API.csproj|d:\\github repos\\edu-app\\api\\presentation\\api.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B835EF-70F2-4F1F-84D9-DB5E3B47AFFE}|Presentation\\API.API\\API.API.csproj|solutionrelative:presentation\\api.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "API.API",
+              "DocumentMoniker": "D:\\GitHub Repos\\edu-app\\API\\Presentation\\API.API\\API.API.csproj",
+              "RelativeDocumentMoniker": "Presentation\\API.API\\API.API.csproj",
+              "ToolTip": "D:\\GitHub Repos\\edu-app\\API\\Presentation\\API.API\\API.API.csproj",
+              "RelativeToolTip": "Presentation\\API.API\\API.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-30T20:14:47.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "API.Persistence",
+              "DocumentMoniker": "D:\\GitHub Repos\\edu-app\\API\\Infrastructure\\API.Persistence\\API.Persistence.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\API.Persistence\\API.Persistence.csproj",
+              "ToolTip": "D:\\GitHub Repos\\edu-app\\API\\Infrastructure\\API.Persistence\\API.Persistence.csproj",
+              "RelativeToolTip": "Infrastructure\\API.Persistence\\API.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-30T20:14:36.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "API.Infrastructure",
+              "DocumentMoniker": "D:\\GitHub Repos\\edu-app\\API\\Infrastructure\\API.Infrastructure\\API.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\API.Infrastructure\\API.Infrastructure.csproj",
+              "ToolTip": "D:\\GitHub Repos\\edu-app\\API\\Infrastructure\\API.Infrastructure\\API.Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\API.Infrastructure\\API.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-30T20:14:27.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "API.Application",
+              "DocumentMoniker": "D:\\GitHub Repos\\edu-app\\API\\Core\\API.Application\\API.Application.csproj",
+              "RelativeDocumentMoniker": "Core\\API.Application\\API.Application.csproj",
+              "ToolTip": "D:\\GitHub Repos\\edu-app\\API\\Core\\API.Application\\API.Application.csproj",
+              "RelativeToolTip": "Core\\API.Application\\API.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-30T20:14:18.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub Repos\\edu-app\\API\\Presentation\\API.API\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\API.API\\Program.cs",
+              "ToolTip": "D:\\GitHub Repos\\edu-app\\API\\Presentation\\API.API\\Program.cs",
+              "RelativeToolTip": "Presentation\\API.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T20:13:15.453Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
